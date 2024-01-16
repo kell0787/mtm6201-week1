@@ -1,4 +1,12 @@
-.site-title {
-    color:darkblue
+header {
+    background-color: #ffe4ed;
 }
 
+li {
+    background-color:#ffe4ed;
+    
+}
+
+h3 {
+    background-color: #ffd9e5; 
+}
